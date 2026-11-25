@@ -1,4 +1,4 @@
-# 🌍 AI Travel Planner
+# 🌍 RoamMind
 
 An AI-powered travel planning web application that helps users decide **where to travel based on their budget, number of people, travel duration, interests, weather, accommodation, and other real-world travel information**.
 
@@ -502,7 +502,7 @@ Possible future features include:
 
 ---
 
-# 👩‍💻 Author
+# 👩💻 Author
 
 **Sadia Zahid**
 
@@ -521,4 +521,3 @@ into:
 > **"Based on my budget, time, interests, weather, and available options — where should I go, what should I do, and is it actually worth going?"**
 
 This project demonstrates practical experience with **React.js, REST APIs, Python/FastAPI, AI integration, API orchestration, data processing, and deployment.**
-mm
